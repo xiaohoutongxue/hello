@@ -8,7 +8,9 @@
  * @date 2019/5/9 15:00
  */
 public class Hello {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
+        System.out.println("sdfdsfsdfsdfsdfsdfsdf");
         System.out.println("hello world");
     }
 }
